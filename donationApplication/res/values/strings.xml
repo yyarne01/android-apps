@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Donation Application</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_simple_demo">SimpleDemo</string>
+    <string name="exit">Exit</string>
+    <string name="lbl_smplpay">Please choose your donation amount</string>
+    <string name="tv_second">(Required for Preapproval)</string>
+    <string name="tv_title"></string>
+    <string name="tv_info">Initializing library</string>
+    <string name="tv_sixth">\n\nSimple Demo Build</string>
+    <string name="donate">Donate</string>
+    <string name="tv_extra"></string>
+    <string name="small">$1.00</string>
+    <string name="medium">$5.00</string>
+    <string name="large">$10.00</string>
+    <string name="other">Other</string>
+    <string name="lbl_donate">Please donate to X Charity</string>
+    <string name="thnks">Thank you for your donation</string>
+    <string name="title_activity_new">NewActivity</string>
+    <string name="title_activity_my_android_app">MyAndroidAppActivity</string>
+    
+     <string name="category_prompt">Choose a category</string>
+
+    <string-array name="category_arrays">
+         <item>Choose a category</item>
+        <item>homeless</item>
+        <item>education</item>
+        <item>poverty</item>
+    
+    </string-array>
+    
+
+</resources>

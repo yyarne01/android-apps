@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+       android:layout_margin="20dp"
+        android:layout_marginTop="285dp"
+    >
+  
+
+        <TextView
+             style="@style/Blue"
+            android:id="@+id/lbl_don"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:padding="@dimen/textf"
+            android:text="@string/lbl_donate"
+            android:textSize="20dp"
+            android:visibility="visible" />
+        
+          <ImageView
+              android:id="@+id/imageView1"
+              android:layout_width="200dp"
+              android:layout_height="60dp"
+              android:layout_gravity="center"
+            
+              android:src="@drawable/gonullu" />
+          
+            <ImageButton
+        android:id="@+id/btnDonate"
+        android:layout_width="wrap_content"
+        android:layout_height="fill_parent"
+         android:layout_marginBottom="215dp"
+        android:src="@drawable/donatebig"
+           android:layout_gravity="center"
+         />
+
+</LinearLayout>

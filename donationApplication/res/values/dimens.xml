@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="name">30dp</dimen>
+    <dimen name="topp">40dp</dimen>
+    <dimen name="buttons">50dp</dimen>
+    <dimen name="buttoni">40dp</dimen>
+    <dimen name="exitb">70dp</dimen>
+    <dimen name="buttonex">20dp</dimen>
+    <dimen name="exitbt">50dp</dimen>
+    <dimen name="layoutp">30dp</dimen>
+    <dimen name="padl">55dp</dimen>
+    <dimen name="textv">20dp</dimen>
+    <dimen name="rdog">20dp</dimen>
+    <dimen name="textf">30dp</dimen>
+    <dimen name="rdogr">30dp</dimen>
+    <dimen name="radiog">30dp</dimen>
+    <dimen name="rs">18dp</dimen>
+    <dimen name="rs1">10dp</dimen>
+    <dimen name="m1">10dp</dimen>
+    <dimen name="tvleft">30dp</dimen>
+    <dimen name="padtop">80dp</dimen>
+   
+</resources>
